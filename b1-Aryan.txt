@@ -1,0 +1,6 @@
+Name : Aryan Patel
+Email : aryan.patel.mat17@itbhu.ac.in
+Phone : 8176965361
+Branch : MAT
+Gender : Male
+
