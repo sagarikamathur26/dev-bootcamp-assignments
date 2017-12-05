@@ -1,0 +1,5 @@
+name: palak
+email: palak.chaudhry.bme17@itbhu.ac.in
+phone: 9115004300
+branch: bme
+gender: female
