@@ -1,0 +1,5 @@
+Name: Sagar Gupta
+email: sagargupta2405@gmail.com
+phone: 7415613214
+branch: CSE
+gender: Male.
