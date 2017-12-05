@@ -1,0 +1,5 @@
+name: Bakul Choudhary
+email: bakul.choudhary.ece17@itbhu.ac.in
+phone: 9450211757
+branch: ece
+gender: male
