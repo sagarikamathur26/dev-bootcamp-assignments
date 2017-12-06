@@ -1,0 +1,5 @@
+name: Ashish Kumar Anguria
+email:ashishkr.anguria.ece17@itbhu.ac.in
+phone:8922864295
+branch:ECE
+gender:male
