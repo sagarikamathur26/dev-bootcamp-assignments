@@ -1,0 +1,5 @@
+name :RAHUL JAIDEOKA
+email :rahul.jaideoka.ece17@itbhu.ac.in
+phone :9771215388
+branch :ece
+gender :male
