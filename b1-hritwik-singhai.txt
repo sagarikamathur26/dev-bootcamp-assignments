@@ -1,0 +1,5 @@
+name: Hritwik Singhai
+email: hritwiks@gmail.com
+phone: 9691569136
+branch: CSE
+gender: Male
