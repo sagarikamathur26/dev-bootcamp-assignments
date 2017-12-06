@@ -1,0 +1,5 @@
+name: Pratyush Kumar Sahoo
+email: pratyushk.sahoo.min16@itbhu.ac.in
+phone: 9938191473
+branch: min
+gender: male
