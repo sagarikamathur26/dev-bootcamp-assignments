@@ -1,0 +1,9 @@
+name:G.Ganga Jathin
+
+E-mail:gganga.jathin.bce17@itbhu.ac.in
+
+phone:7390940682
+
+branch: bce
+
+gender: male
