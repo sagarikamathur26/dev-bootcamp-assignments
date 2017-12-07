@@ -1,0 +1,5 @@
+name:Aashish Motwani
+email:aashish.motwani.eee17@itbhu.ac.in
+phone:7390941487
+branch:eee
+gender:male
