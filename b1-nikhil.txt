@@ -1,0 +1,5 @@
+name:Nikhil
+email: nikhil.raj450@gmail.com
+phone:8759961310
+branch:cse
+gender:male
