@@ -1,0 +1,6 @@
+name: Yogesh Kumar Verma
+email: yogeshkr.verma.chy16@itbhu.ac.in
+phone: 7507106619
+branch: chy
+gender: male
+assignment: 1
