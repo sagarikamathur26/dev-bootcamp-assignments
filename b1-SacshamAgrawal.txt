@@ -1,6 +1,5 @@
-# Name: Sacsham Agrawal
-#email: sacsham.agrawal.ece17@itbhu.ac.in
-#mob: 8840353310 (both phone and whatsapp)
-      9161011364 ( phone only)
-#gender : male
-#branch : ece
+Name: Sacsham Agrawal
+email: sacsham.agrawal.ece17@itbhu.ac.in
+mob: 8840353310 (both phone and whatsapp), 9161011364 (phone only)
+gender : male
+branch : ece
