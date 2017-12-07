@@ -1,0 +1,5 @@
+name: sushant
+email: sushant.student.ece17@itbhu.ac.in
+phone: 9161010984
+branch: ece
+gender: male
