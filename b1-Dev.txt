@@ -1,0 +1,5 @@
+name: Dev Garg
+email: dev.garg.ece17@itbhu.ac.in
+phone: 7390942008
+branch: ece
+gender: male
