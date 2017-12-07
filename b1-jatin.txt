@@ -1,0 +1,5 @@
+name: Jatin 
+email: jatin.agarwal.ece17@itbhu.ac.in
+Phone no: 8800605751
+Branch: ece
+gender: male
