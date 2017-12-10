@@ -1,0 +1,5 @@
+Name: Tanmay Gupta
+Email: tanmay.gupta.ece17@itbhu.ac.in
+Phone: 9838259261
+Branch: ece
+Gender: Male
