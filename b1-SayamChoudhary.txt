@@ -1,0 +1,5 @@
+name:Sayam Choudhary
+email:sayam.choudhary.cse17@itbhu.ac.in 
+phone:9460728764
+branch:cse
+gender:male
