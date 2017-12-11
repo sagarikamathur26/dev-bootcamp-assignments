@@ -1,0 +1,4 @@
+name: Piyush Kumar Maurya
+email: piyushkr.maurya.cse17@itbhu.ac.in
+assignment: 2
+github: https://github.com/piyushkrmaurya/iitbhutour.git/
