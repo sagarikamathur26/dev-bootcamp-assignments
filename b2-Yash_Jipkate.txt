@@ -1,0 +1,4 @@
+name: Yash Jipkate
+email: yashjipkate@gmail.com
+assignment: 1
+github: https://github.com/YashJipkate/Android-dev-Assignment/tree/master
