@@ -1,0 +1,4 @@
+name: Indrajeet Pala
+email: indrajeet.rpala.phe17@iitbhu.ac.in
+assignment: 2
+https://github.com/indrajeetpala19/dev-bootcamp-assignment/blob/master/Random.py
