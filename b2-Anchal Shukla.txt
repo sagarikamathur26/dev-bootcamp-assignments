@@ -1,0 +1,7 @@
+name: Anchal Shukla
+email: anchal.shukla.civ17@itbhu.ac.in
+assignment: 2
+github: https://github.com/anchal-24/CricketScore
+phone: 8826239019
+branch: CIV
+gender: male
