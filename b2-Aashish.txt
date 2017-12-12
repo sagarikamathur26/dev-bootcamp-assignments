@@ -1,0 +1,4 @@
+name:Aashish Motwani
+email:aashish.motwani.eee17@itbhu.ac.in
+assignment:2
+github:https://github.com/Aashish0698/Assignment
