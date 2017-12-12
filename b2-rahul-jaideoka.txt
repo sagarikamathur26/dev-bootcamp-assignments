@@ -1,0 +1,5 @@
+Name: Rahul Jaideoka
+email: rahul.jaideoka.ece17@gmail.com    or rahuljaideoka@gmail.com
+assignment: 2
+github link to webdev website: https://smartcoderrj.github.io/smartcoderrj.github.io-IIT_BHU_tourism-/
+github link to my java text game repo: https://github.com/smartcoderrj/java_game/blob/master/Jgame.java
