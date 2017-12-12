@@ -1,0 +1,4 @@
+Name: Ragini Lakra
+Email: rlragini2000@gmail.com
+Assignment: 2
+Github: https://github.com/ragini2000/dev-bootcamp-assignments
