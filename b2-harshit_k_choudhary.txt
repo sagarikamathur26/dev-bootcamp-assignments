@@ -1,0 +1,4 @@
+name: Harshit Krishna Choudhary
+email: harshit.kchoudhary.mst17@itbhu.ac.in
+assignment: 2
+github: https://github.com/HarshitKrishna/asn_bose.git
