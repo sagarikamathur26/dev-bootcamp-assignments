@@ -1,5 +1,7 @@
 name: P. Sai Prasanth
 email: psai.prasanth.min16@itbhu.ac.in
+assignment: 2
+github: https://github.com/coffe2code/COPS-Assignment-2
 phone: 9594856750
 branch: MIN
-gender: male
+gender: Male
