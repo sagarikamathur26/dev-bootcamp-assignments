@@ -1,0 +1,4 @@
+Name: Amritansh Singhal
+Email: amritansh.singhal.cse17@itbhu.ac.in
+Assignment: 2
+Github: https://github.com/Eerie16/AndroProject1
