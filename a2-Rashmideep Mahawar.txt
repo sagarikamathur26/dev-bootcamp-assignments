@@ -1,0 +1,7 @@
+Name : Rashmi Deep Mahawar
+email : rashmideep.mahawar@gmail.com
+Branch : eee
+Gender : female
+Phone : 9461496523
+github url : https://github.com/rashmideep/Rashmi
+Assignment : 2

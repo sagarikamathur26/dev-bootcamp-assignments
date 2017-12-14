@@ -1,0 +1,7 @@
+name: Hemanth Reddy
+email: reddyhemanth2111@gmail.com
+assignment: 2
+github: https://github.com/hemanthreddy21/newbie
+phone: 9505994190
+branch: ece
+gender:male
