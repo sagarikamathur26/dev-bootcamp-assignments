@@ -1,0 +1,4 @@
+name: G.Ganga Jathin
+email:gganga.jathin.bce17@itbhu.ac.in
+github: https://github.com/GangaJathin/Ganga-Jathin
+assignments: 2
