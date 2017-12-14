@@ -1,0 +1,4 @@
+name: Sagar gupta
+email: sagargupta2405@gmail.com
+assignment: 2
+github: https://github.com/sgrG24/App_1.0.git
