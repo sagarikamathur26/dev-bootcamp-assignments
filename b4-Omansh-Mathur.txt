@@ -1,0 +1,8 @@
+
+Name:   Omansh Mathur
+email:  omansh.mathur.mat17@itbhu.ac.in
+Assignment: 4
+github:https://github.com/napster202/final_assgnmt
+Phone:  +919810086362
+Branch: MnC
+Gender: Male
