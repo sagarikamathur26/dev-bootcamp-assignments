@@ -1,3 +1,3 @@
 # dev-bootcamp-assignments
 
-1) Git Assignment
+1) Git Assignments
